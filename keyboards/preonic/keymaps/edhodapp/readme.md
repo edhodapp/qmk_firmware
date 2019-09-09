@@ -1,1 +1,1 @@
-# Preonic layout that uses every printed keycap in the Massdrop kit.
+# The default Preonic layout - largely based on the Planck's
